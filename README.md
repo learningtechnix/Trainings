@@ -10,3 +10,4 @@ Puppet | https://github.com/learningtechnix/PuppetCourse
 Docker | https://github.com/learningtechnix/dockerCourse
 Git | https://github.com/learningtechnix/GitCourse
 Kubernetes | https://github.com/learningtechnix/KubernetesCourse
+Terraform | https://github.com/learningtechnix/TerraformCourse
