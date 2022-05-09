@@ -5,6 +5,7 @@
 Topics | Weblinks
 ------ | --------
 RHCSA 8 | https://github.com/learningtechnix/RHCSA8
+RHCE8 | https://github.com/learningtechnix/RHCE8
 Linux  | https://github.com/learningtechnix/LinuxCourse
 Ansible | https://github.com/learningtechnix/AnsibleCourse
 Puppet | https://github.com/learningtechnix/PuppetCourse
